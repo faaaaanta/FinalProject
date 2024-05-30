@@ -1,1 +1,4 @@
+int time;
 
+void reset(){
+}
