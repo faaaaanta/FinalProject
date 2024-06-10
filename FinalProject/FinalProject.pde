@@ -1,4 +1,1 @@
-int time;
 
-void reset(){
-}
