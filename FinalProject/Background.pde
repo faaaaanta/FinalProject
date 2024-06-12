@@ -36,5 +36,5 @@ void displayTime(){
 void reset(){
   textSize(25);
   fill(255);
-  text("reset", 15, 600);
+  text("reset", 730, 34);
 }
